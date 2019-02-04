@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Toshiyuki HINA"]
   spec.email         = ["thina@yourinventit.com"]
 
-  spec.summary       = %q{Integrate jquery-sprintf-rails assets in your Rails asset pipeline}
-  spec.description   = %q{Wrap jquery-sprintf-rails and provide the assets as a gem}
+  spec.summary       = %q{Integrate jquery.sprintf assets in your Rails asset pipeline}
+  spec.description   = %q{Wrap jquery.sprintf and provide the assets as a gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 
