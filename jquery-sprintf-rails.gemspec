@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Integrate jquery.sprintf assets in your Rails asset pipeline}
   spec.description   = %q{Wrap jquery.sprintf and provide the assets as a gem}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/inventit/jquery-sprintf-rails"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
